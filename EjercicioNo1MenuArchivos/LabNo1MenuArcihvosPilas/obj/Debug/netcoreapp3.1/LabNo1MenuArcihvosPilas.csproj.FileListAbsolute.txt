@@ -1,0 +1,12 @@
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.exe
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.deps.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.runtimeconfig.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.runtimeconfig.dev.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\bin\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.AssemblyInfo.cs
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\LabNo1MenuArcihvosPilas\obj\Debug\netcoreapp3.1\LabNo1MenuArcihvosPilas.genruntimeconfig.cache

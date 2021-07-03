@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.exe
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.deps.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.runtimeconfig.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.runtimeconfig.dev.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\bin\Debug\netcoreapp3.1\ClaseColas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.AssemblyInfo.cs
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\ClaseColas\obj\Debug\netcoreapp3.1\ClaseColas.genruntimeconfig.cache

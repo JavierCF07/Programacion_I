@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LabNo1MenuArcihvosPilas/1.0.0": {
+        "runtime": {
+          "LabNo1MenuArcihvosPilas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabNo1MenuArcihvosPilas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

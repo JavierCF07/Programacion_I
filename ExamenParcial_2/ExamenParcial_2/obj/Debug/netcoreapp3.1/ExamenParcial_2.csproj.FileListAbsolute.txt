@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.AssemblyInfo.cs
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.exe
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.deps.json
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.runtimeconfig.json
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.runtimeconfig.dev.json
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.dll
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\bin\Debug\netcoreapp3.1\ExamenParcial_2.pdb
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.dll
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.pdb
+C:\Users\javie\source\repos\ExamenParcial_2\ExamenParcial_2\obj\Debug\netcoreapp3.1\ExamenParcial_2.genruntimeconfig.cache

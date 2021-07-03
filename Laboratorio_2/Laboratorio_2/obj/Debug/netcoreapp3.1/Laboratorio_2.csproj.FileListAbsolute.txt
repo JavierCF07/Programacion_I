@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.exe
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.deps.json
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.runtimeconfig.json
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.runtimeconfig.dev.json
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.dll
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\bin\Debug\netcoreapp3.1\Laboratorio_2.pdb
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.AssemblyInfo.cs
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.dll
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.pdb
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.genruntimeconfig.cache
+C:\Users\javie\source\repos\Laboratorio_2\Laboratorio_2\obj\Debug\netcoreapp3.1\Laboratorio_2.csprojAssemblyReference.cache

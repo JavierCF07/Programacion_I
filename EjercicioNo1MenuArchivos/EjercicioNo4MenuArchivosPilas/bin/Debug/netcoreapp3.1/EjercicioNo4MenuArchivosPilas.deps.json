@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjercicioNo4MenuArchivosPilas/1.0.0": {
+        "runtime": {
+          "EjercicioNo4MenuArchivosPilas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioNo4MenuArchivosPilas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

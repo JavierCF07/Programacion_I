@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.exe
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.deps.json
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.runtimeconfig.json
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.runtimeconfig.dev.json
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.dll
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\bin\Debug\netcoreapp3.1\ArchivosBinarios.pdb
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.AssemblyInfo.cs
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.dll
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.pdb
+C:\Users\javie\source\repos\ArchivosBinarios\ArchivosBinarios\obj\Debug\netcoreapp3.1\ArchivosBinarios.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.exe
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.deps.json
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.runtimeconfig.json
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.runtimeconfig.dev.json
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.dll
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\bin\Debug\netcoreapp3.1\M3_Apuntadores.pdb
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.AssemblyInfo.cs
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.dll
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.pdb
+C:\Users\javie\source\repos\M3_Apuntadores\M3_Apuntadores\obj\Debug\netcoreapp3.1\M3_Apuntadores.genruntimeconfig.cache

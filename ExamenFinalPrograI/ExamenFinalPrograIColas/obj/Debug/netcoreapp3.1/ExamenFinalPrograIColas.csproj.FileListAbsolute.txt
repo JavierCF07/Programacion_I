@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.exe
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.deps.json
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.runtimeconfig.json
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.runtimeconfig.dev.json
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.dll
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\bin\Debug\netcoreapp3.1\ExamenFinalPrograIColas.pdb
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.AssemblyInfo.cs
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.dll
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.pdb
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.genruntimeconfig.cache
+C:\Users\javie\source\repos\ExamenFinalPrograI\ExamenFinalPrograIColas\obj\Debug\netcoreapp3.1\ExamenFinalPrograIColas.csprojAssemblyReference.cache

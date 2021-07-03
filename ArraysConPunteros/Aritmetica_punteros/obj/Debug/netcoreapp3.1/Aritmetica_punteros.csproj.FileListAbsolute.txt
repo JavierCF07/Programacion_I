@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.exe
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.deps.json
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.runtimeconfig.json
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.runtimeconfig.dev.json
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.dll
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\bin\Debug\netcoreapp3.1\Aritmetica_punteros.pdb
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.AssemblyInfo.cs
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.dll
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.pdb
+C:\Users\javie\source\repos\ArraysConPunteros\Aritmetica_punteros\obj\Debug\netcoreapp3.1\Aritmetica_punteros.genruntimeconfig.cache

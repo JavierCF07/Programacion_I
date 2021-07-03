@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.exe
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.deps.json
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.runtimeconfig.json
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.runtimeconfig.dev.json
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.dll
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\bin\Debug\netcoreapp3.1\ArraysConPunteros.pdb
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.AssemblyInfo.cs
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.dll
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.pdb
+C:\Users\javie\source\repos\ArraysConPunteros\ArraysConPunteros\obj\Debug\netcoreapp3.1\ArraysConPunteros.genruntimeconfig.cache

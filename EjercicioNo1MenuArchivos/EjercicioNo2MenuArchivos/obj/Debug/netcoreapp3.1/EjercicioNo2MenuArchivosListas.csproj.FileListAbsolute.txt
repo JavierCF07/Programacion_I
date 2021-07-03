@@ -1,0 +1,12 @@
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.exe
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.deps.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.runtimeconfig.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.runtimeconfig.dev.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\bin\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.AssemblyInfo.cs
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo2MenuArchivos\obj\Debug\netcoreapp3.1\EjercicioNo2MenuArchivosListas.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "EjercicioNo2MenuArchivos/1.0.0": {
+        "runtime": {
+          "EjercicioNo2MenuArchivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioNo2MenuArchivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

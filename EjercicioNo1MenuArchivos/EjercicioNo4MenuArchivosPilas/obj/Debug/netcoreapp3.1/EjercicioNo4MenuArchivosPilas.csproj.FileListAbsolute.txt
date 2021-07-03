@@ -1,0 +1,13 @@
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.exe
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.deps.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.runtimeconfig.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.runtimeconfig.dev.json
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\bin\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.csprojAssemblyReference.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.AssemblyInfoInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.AssemblyInfo.cs
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.csproj.CoreCompileInputs.cache
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.dll
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.pdb
+C:\Users\javie\source\repos\EjercicioNo1MenuArchivos\EjercicioNo4MenuArchivosPilas\obj\Debug\netcoreapp3.1\EjercicioNo4MenuArchivosPilas.genruntimeconfig.cache
